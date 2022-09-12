@@ -55,20 +55,12 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- HTML5 
+- CSS 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> to code this project.
 
 To see how you can add code snippets, see below:
 
