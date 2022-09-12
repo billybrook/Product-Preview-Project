@@ -30,6 +30,8 @@ Users should be able to:
 The specifications of the challange were as follows:
 
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/mobile-design.jpg" target="_blank">Mobile Design</a>
+- <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/desktop-design.jpg" target="_blank>Desktop Design</a>
+- <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/active-states.jpg" target="_blank">How the hover over button should appear</a> 
 
 ### Screenshots
 
