@@ -29,7 +29,7 @@ Users should be able to:
 
 The specifications of the challange were as follows:
 
-- spec
+- <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/mobile-design.jpg" target="_blank">Mobile Design</a>
 
 ### Screenshots
 
