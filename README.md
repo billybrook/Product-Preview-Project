@@ -60,7 +60,19 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 
 ### What I learned
 
-This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> to code this project.
+This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> in order to code this project. As such, I have learnt many things during my attempt at coding this project.
+
+Things I've learnt:
+- How to import fonts from google
+```css
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+}
+In order to import custom fonts to format the HTML one can visit <a href="https://fonts.google.com/" target=_blank>fonts.google.com</a>. From here, one can select the required fonts and use the @import rule with the url from the site. 
+<br />
+- How to center elements
+- How to make a grid of two equal coloumns
+- How to customise a buton
+- How to write a media query
 
 To see how you can add code snippets, see below:
 
