@@ -27,11 +27,12 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-The specifications of the challange were as follows:
+The design and specifications of the challange were as follows:
 
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/mobile-design.jpg" target="_blank">Mobile Design</a>
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/desktop-design.jpg" target="_blank">Desktop Design</a>
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/active-states.jpg" target="_blank">Hover State Of Button</a> 
+- <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/style-guide.md" target="_blank">Style Guide Specifications</a>
 
 ### Screenshots
 
