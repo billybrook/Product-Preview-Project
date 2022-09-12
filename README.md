@@ -69,7 +69,9 @@ Things I've learnt:
 }
 ```
 
-In order to import custom fonts to format the HTML one can visit <a href="https://fonts.google.com/" target=_blank>fonts.google.com</a>. From here, one can select the required fonts and use the @import rule with the url from the site. 
+In order to import custom fonts to format the HTML one can visit <a href="https://fonts.google.com/" target=_blank>fonts.google.com</a>. From here, one can select the required fonts and use the @import rule with the url from the site. The above code imports the Fraunces and Montserrat font into the file. 
+<br />
+<br />
 <br />
 - How to center elements
 ```css
@@ -77,10 +79,25 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  min-height: 100vh;
 }
 ```
+The above code was used to center the elements within the body element of my HTML. Those elements being the product image and the article containing the product information which are both contained within my \<div\ class="container"> tag.
+<br />
+<br />
+<br />
+ - How to make a grid of two equal coloumns
+```css
+  .container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr)
+  }
+ ```
+ The above code was used to display the image and product information in a grid with two columns of equal size for the desktop display design.
+<br />
+<br />
+<br />
  
-- How to make a grid of two equal coloumns
 - How to customise a buton
 - How to write a media query
 
