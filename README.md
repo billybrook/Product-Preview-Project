@@ -98,7 +98,7 @@ The above code was used to center the elements within the body element of my HTM
 <br />
 <br />
  
-- How to customise a buton
+- How to customise a button
 ```html
 <button class="btn"><img src="./images/icon-cart.svg" alt="shopping trolley"> Add to Cart</button>
 ```
@@ -119,53 +119,42 @@ The above html added a shopping trolly icon to the button along with the 'Add to
   align-items: center;
   justify-content: center;
 }
+.btn:hover {
+  background-color: hsl(158, 37%, 19%);
+  }
 ```
-The above code was used to add various styling effects to the button. I have adjusted the font properties and given the background of the button the correct colour according to the design specifications. In order to make the button the correct size I have used padding and width properties. The border radius property was used to give rounded edges to the button. The cursor: pointer property changes the hover state of the mouse icon to the pointing finger icon.
+The above code was used to add various styling effects to the button. I have adjusted the font properties and given the background of the button the correct colour according to the design specifications. In order to make the button the correct size I have used padding around the centred text and shopping trolley icon, and have also made the width 100% of the containing article. The border radius property was used to give rounded edges to the button. The 'cursor: pointer' property changes the hover state of the mouse icon to the pointing finger icon. While the '.btn:hover' styling changes the background colour of the button when hovering over it with the mouse.
+<br />
+<br />
+<br />
 - How to write a media query
-
-To see how you can add code snippets, see below:
-
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<article class="perfumepic">
+      <picture>
+        <source media="(min-width:640px)"srcset="./images/image-product-desktop.jpg"> 
+    <img src="./images/image-product-mobile.jpg" alt="fancy pants perfume">
+   </picture>
+    </article>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+@media (min-width: 640px) {
+  .container {...
+  }
+  .perfumepic img {...
+  }
+  ...
+  }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+The above html picture tag was used to import two different images; one for the mobile design and one for the desktop design. Using the '@ media' query 
+and setting a min-width for the browser window to 640 pixels allowed me to style the webpage for tablets and computer screens-which are typically at least this width.
+If the media query is not satisfied then the mobile display of the webpage is shown.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Product Preview Card Component - Frontend Mentor Challenge](https://www.youtube.com/watch?v=BMOH4zSLTnQ) - As mentioned, Thomas Sankara's YouTube tutorial details how to complete this challenge.
+- [W3 Schools](https://www.w3schools.com/default.asp) - I was not really familiar with this popular learning resource before attempting this project. I will be using it as reference site going forward
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
