@@ -60,7 +60,7 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 
 ### What I learned
 
-This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> in order to code this project. As such, I have learnt many things during my attempt at coding this project. 
+This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> in order to code this project. As such, I have learnt many things during my attempt at coding this project, a selection of which follows.
 
 Things I've learnt:
 - How to import fonts from google
@@ -99,6 +99,27 @@ The above code was used to center the elements within the body element of my HTM
 <br />
  
 - How to customise a buton
+```html
+<button class="btn"><img src="./images/icon-cart.svg" alt="shopping trolley"> Add to Cart</button>
+```
+```css
+.btn {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(158, 36%, 37%);
+  border-color: hsl(158, 36%, 37%);
+  font-weight: 700;
+  font-size: 1rem;
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.6rem;
+  border-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+```
+The above code was used to add various styling effects to the button. 
 - How to write a media query
 
 To see how you can add code snippets, see below:
