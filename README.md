@@ -16,7 +16,7 @@ This is a solution to the Product preview card component challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -34,7 +34,7 @@ The design and specifications of the challange were as follows:
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/active-states.jpg" target="_blank">Hover State Of Button</a> 
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/style-guide.md" target="_blank">Style Guide Specifications</a>
 
-### Screenshots of finished web page
+### Screenshots of my finished web page
 
 <img src="images/Screenshot-Desktop-Width-1440px.png" width="700px">
 A screenshot of the desktop display of the page for a screen width of 1440 pixels as per the design requirements.
@@ -48,8 +48,8 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [Add live site URL here](https://astounding-marshmallow-d98efc.netlify.app)
 
 ## My process
 
@@ -60,7 +60,7 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 
 ### What I learned
 
-This is the first project I have attempted to code. I have leaned heavely on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's Youtube tutorial video</a> in order to code this project. As such, I have learnt many things during my attempt at coding this project, a selection of which follows.
+This is the first project I have attempted to code. I have leaned heavily on <a href="https://www.youtube.com/watch?v=BMOH4zSLTnQ">Thomas Sankara's YouTube tutorial video</a> in order to code this project. As such, I have learnt many things during my attempt at coding this project, a selection of which follows.
 
 Things I've learnt:
 - How to import fonts from google
@@ -102,6 +102,7 @@ The above code was used to center the elements within the body element of my HTM
 ```html
 <button class="btn"><img src="./images/icon-cart.svg" alt="shopping trolley"> Add to Cart</button>
 ```
+The above html added a shopping trolly icon to the button along with the 'Add to Cart' text.
 ```css
 .btn {
   color: hsl(0, 0%, 100%);
@@ -119,7 +120,7 @@ The above code was used to center the elements within the body element of my HTM
   justify-content: center;
 }
 ```
-The above code was used to add various styling effects to the button. 
+The above code was used to add various styling effects to the button. I have adjusted the font properties and given the background of the button the correct colour according to the design specifications. In order to make the button the correct size I have used padding and width properties. The border radius property was used to give rounded edges to the button. The cursor: pointer property changes the hover state of the mouse icon to the pointing finger icon.
 - How to write a media query
 
 To see how you can add code snippets, see below:
