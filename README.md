@@ -49,7 +49,7 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 ### Links
 
 
-- Live Site URL: [Click here to be taken to the live sit URL](https://astounding-marshmallow-d98efc.netlify.app)
+- Live Site URL: [Click here to be taken to the live site URL!](https://astounding-marshmallow-d98efc.netlify.app)
 
 ## My process
 
