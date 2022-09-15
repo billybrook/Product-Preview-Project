@@ -49,7 +49,7 @@ A screenshot of the mobile display of the page for a screen width of 375 pixels 
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://astounding-marshmallow-d98efc.netlify.app)
+- Live Site URL: [Click here to be taken to the live sit URL](https://astounding-marshmallow-d98efc.netlify.app)
 
 ## My process
 
@@ -154,7 +154,7 @@ If the media query is not satisfied then the mobile display of the webpage is sh
 ### Useful resources
 
 - [Product Preview Card Component - Frontend Mentor Challenge](https://www.youtube.com/watch?v=BMOH4zSLTnQ) - As mentioned, Thomas Sankara's YouTube tutorial details how to complete this challenge.
-- [W3 Schools](https://www.w3schools.com/default.asp) - I was not really familiar with this popular learning resource before attempting this project. I will be using it as reference site going forward
+- [W3 Schools](https://www.w3schools.com/default.asp) - I was not really familiar with this popular learning resource before attempting this project. I will be using it as reference site going forward.
 
 
 
