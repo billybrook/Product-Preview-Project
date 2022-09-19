@@ -6,15 +6,13 @@ This is a solution to the Product preview card component challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshots)
+  - [Screenshots of the finished web page](#screenshots-of-the-finished-web-page)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -34,7 +32,7 @@ The design and specifications of the challange were as follows:
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/active-states.jpg" target="_blank">Hover State Of Button</a> 
 - <a href="https://github.com/billybrook/Product-Preview-Project/blob/main/design/style-guide.md" target="_blank">Style Guide Specifications</a>
 
-### Screenshots of my finished web page
+### Screenshots of the finished web page
 
 <img src="images/Screenshot-Desktop-Width-1440px.png" width="700px">
 A screenshot of the desktop display of the page for a screen width of 1440 pixels as per the design requirements.
@@ -154,7 +152,7 @@ If the media query is not satisfied then the mobile display of the webpage is sh
 ### Useful resources
 
 - [Product Preview Card Component - Frontend Mentor Challenge](https://www.youtube.com/watch?v=BMOH4zSLTnQ) - As mentioned, Thomas Sankara's YouTube tutorial details how to complete this challenge.
-- [W3 Schools](https://www.w3schools.com/default.asp) - I was not really familiar with this popular learning resource before attempting this project. I will be using it as reference site going forward.
+- [W3 Schools](https://www.w3schools.com/default.asp) - I was not really familiar with this popular learning resource before attempting this project. I will be using it as a reference site going forward.
 
 
 
