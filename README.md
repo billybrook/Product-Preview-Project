@@ -80,7 +80,7 @@ body{
   min-height: 100vh;
 }
 ```
-The above code was used to center the elements within the body element of my HTML. Those elements being the product image and the article containing the product information which are both contained within my \<div\ class="container"> tag.
+The above code was used to center the elements within the body element of my HTML. Those elements being the product image and the article containing the product information which are both contained within my \<div class="container"> tag.
 <br />
 <br />
 <br />
